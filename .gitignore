@@ -1,0 +1,17 @@
+# Minecraft
+*.jar
+*.litemod
+*.zip
+*.mca
+*.dat
+*.dat_old
+*.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
